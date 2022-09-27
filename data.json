@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Roshan",
+        "empName": "Roshan Thokchom",
+        "branchOffice": "Kwakeithel",
+        "name": "Thokchom Family",
+        "furigana": "japanese",
+        "facePhoto": "https://img.shields.io/",
+        "activeState": "active"
+    },
+    {
+        "username": "nganaremba",
+        "empName": "Nganaremba Shijagurumayum",
+        "branchOffice": "Kwakeithel",
+        "name": "Shija Family",
+        "furigana": "japanese",
+        "facePhoto": "https://img.shields.io/",
+        "activeState": "inactive"
+    }
+]
